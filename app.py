@@ -1,3 +1,4 @@
+# KR2: Zabotkin
 import os
 import socket
 
